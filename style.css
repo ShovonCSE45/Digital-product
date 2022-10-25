@@ -1,0 +1,82 @@
+.container{
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+.mid_area_left{
+    margin-top: 60px;
+}
+.mid_area_left img{
+    height: 100px;
+    margin-left: 0px;
+    
+}
+.mid_area_right img{
+    width: 400px;
+    height: 500px;
+}
+.mid_area_middle img{
+    height: 350px;
+    margin-top: 55px;
+}
+.phn_catagory{
+    border: none;
+}
+.phn_catagory h5{
+    text-align: center;
+}
+.pc_catagory h5{
+    text-align: center;
+    
+}
+.phn_catagory p{
+    text-align: center;
+    color: gray;
+}
+.pc_catagory p{
+    text-align: center;
+    color: gray;
+}
+.by-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 20px;
+    cursor: pointer;
+    margin-left: 95px;
+
+}
+.mid_button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 20px;
+    cursor: pointer;
+
+}
+.last_section h4{
+    text-align: center;
+    text-decoration: underline;     
+    text-decoration-color: orange;
+    text-decoration-thickness: 5px;
+    
+}
+.last_section{
+    height: 400px;
+    
+    
+}
+.left_fast{
+    margin-top: 120px;
+    margin-left: 0px;
+}
+.left_fast h6{
+    margin-left: 50px;
+}
+.middle_fast{
+    margin-top: 50px;
+}
+
+
+
